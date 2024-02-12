@@ -1,4 +1,4 @@
-﻿namespace RaidCrawler.WinForms.SubForms
+namespace RaidCrawler.WinForms.SubForms
 {
     partial class FilterSettings
     {
@@ -645,7 +645,7 @@
             this.RewardsCount.Enabled = false;
             this.RewardsCount.Location = new System.Drawing.Point(104, 256);
             this.RewardsCount.Maximum = new decimal(new int[] {
-            12,
+            50,
             0,
             0,
             0});
